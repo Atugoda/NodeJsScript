@@ -3,7 +3,7 @@ var age=24
 const hobbieis = 'reading books'
 
 name = 'sanduni'
-hobbieis = true
+// hobbieis = true
 
 function summarizingthedetails(username,age,hobbies){
     return(
