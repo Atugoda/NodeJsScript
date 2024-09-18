@@ -3,7 +3,7 @@ const person = {
     age: 24,
     // greet:function(){
     //     console.log('hi im ' +this.name);
-    // }
+    // }   
         greet(){
             console.log('hi im ' +this.name);
         }
